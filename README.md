@@ -83,9 +83,9 @@ https://docs.google.com/forms/d/1fHr8GhbXu82A8reP4GV2PbKJKvEkbUXohQSnNjhqPdw/edi
 ## My Profiles
 
 **GitHub:** https://github.com/lokendrakatariya0-png
-**LinkedIn:** https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME(https://www.linkedin.com/in/lokendra-katariya-943b9939b/?skipRedirect=true)  
-**Kaggle:** https://www.kaggle.com/YOUR-KAGGLE-USERNAME(https://www.kaggle.com/lokendrakatariya) 
-**CodeChef:** https://www.codechef.com/users/YOUR-CODECHEF-USERNAME(https://www.codechef.com/users/lokendra45) 
+**LinkedIn:** https://www.linkedin.com/in/lokendra-katariya-943b9939b/  
+**Kaggle:** https://www.kaggle.com/lokendrakatariya
+**CodeChef:** https://www.codechef.com/users/lokendra45
 
 ---
 
